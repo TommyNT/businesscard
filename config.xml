@@ -22,5 +22,6 @@
 		<splash src="res/solo.jpg" density="port-hdpi"/>
 	</platform>
 
+	<preference name="SplashScreenDelay" value="10000" />
 
 	</widget>
